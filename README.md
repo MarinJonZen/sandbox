@@ -1,2 +1,1 @@
-sandbox
-=======
+This is my sandbox environment and has strictly experimental code.  I accept no responsiblity or liability for the code within.
